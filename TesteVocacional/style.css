@@ -6,6 +6,11 @@ label {
   text-align: center;
 }
 
+.navbar{
+  background-color: #f1f1f1;
+  width: 100%;
+}
+
 @import url('https://fonts.cdnfonts.com/css/gloock-2');
 
 .title-text {
